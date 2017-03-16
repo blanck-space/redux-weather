@@ -1,0 +1,30 @@
+svg {
+    height: 200px;
+}
+
+td {
+    vertical-align: middle!important;
+    text-align: center!important;
+}
+table{
+  margin-top: 30px
+}
+tbody td:first-of-type, tbody td:first-of-type>div{
+  width:250px;
+  height:200px;
+}
+.headerText{
+  text-align: center;
+  margin-top: 40px
+}
+.headerText p{
+  max-width: 40%;
+  display: block;
+  margin: 30px auto;
+}
+h1{
+  color: #444;
+}
+span{
+  font-weight: bold;
+}
